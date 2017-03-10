@@ -1,2 +1,2 @@
 # Webshop
-Landing page
+Landing page of a webshop, responsive.
